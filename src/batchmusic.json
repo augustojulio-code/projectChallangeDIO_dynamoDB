@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "American Idiot"},
+                  "AlbumTitle": {"S": "American idiot"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "Basket Case"},
+                  "AlbumTitle": {"S": "Dokkie"},
+                  "SongYear": {"S": "1995"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "Saint Jimmy"},
+                  "AlbumTitle": {"S": "American Idiot"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        }
+      ]
+}
